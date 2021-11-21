@@ -1,11 +1,12 @@
 
-  <div align="center" >
-     <a  href="https://www.linkedin.com/in/gabriel-aires-a4a95b200/" target="_blank"><img height="180em" width= "47%"src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+ 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/GabrielAirex">
   <img height="180em" width= "50%" src="https://github-readme-stats.vercel.app/api?username=GabrielAirex&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width= "50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAirex&layout=compact&langs_count=7&theme=dark"/>
+</div>
+   <div align="center" >
+     <a  href="https://www.linkedin.com/in/gabriel-aires-a4a95b200/" target="_blank"><img height="90em" width= "25.5%" border-radius="15px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
  
   
