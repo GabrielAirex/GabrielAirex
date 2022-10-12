@@ -1,3 +1,4 @@
+<div>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
@@ -19,18 +20,27 @@
 <p align="left">
  -Entusiasta em infraestrutura e cybersecurity 
 </p>
-<p>
-</p>
- <a align="right"  style="margin-top:30px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAirex&theme=dracula&hide_langs_below=1" />
-</a>
- <img height="185em" width= "50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAirex&layout=compact&langs_count=7&theme=dark"/>
+   <div  style="border-radius=1500px" >
+ <a  href="https://www.linkedin.com/in/gabriel-aires-a4a95b200/" target="_blank"><img height="90em" width= "25.5%"style="border-radius=1500px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-   <div width= "50%" style="border-radius=1500px" >
-     <a  href="https://www.linkedin.com/in/gabriel-aires-a4a95b200/" target="_blank"><img height="90em" width= "25.5%"style="border-radius=1500px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-</div>
- 
+
+
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+
+  <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAirex&theme=dracula&hide_langs_below=1" />
+
+ <img align="right"    width= "50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAirex&layout=compact&langs_count=7&theme=dark"/>
+
+
+<br>
+
  
     
    <h2 align="center"> Engenharia de dados:</h2>
