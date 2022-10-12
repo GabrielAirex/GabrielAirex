@@ -25,10 +25,11 @@
 </div>
 
 
-<br>
-<br>
-<br>
-<br>
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 
 
@@ -39,7 +40,16 @@
  <img align="right"    width= "50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAirex&layout=compact&langs_count=7&theme=dark"/>
 
 
-<br>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
  
     
