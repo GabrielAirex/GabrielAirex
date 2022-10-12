@@ -37,11 +37,14 @@
 
   <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAirex&theme=dracula&hide_langs_below=1" />
 
- <img align="right"    width= "50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAirex&layout=compact&langs_count=7&theme=dark"/>
-
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=GabrielAirex&show_icons=true&theme=dracula&line_height=27" alt="*Gabriel Airex github stats"/>
 
 <br/>
+<br/><br/>
+<br/><br/>
 <br/>
+
+
 <br/>
 <br/>
 <br/>
