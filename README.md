@@ -65,6 +65,9 @@
        <img align="center" alt="Aires-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
       <img align="center" alt="Aires-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
       <img align="center" alt="Aires-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      
+            <img align="center" alt="Aires-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+      
     </div>
   
   <h2 align="center"> Web:</h2>
@@ -72,7 +75,6 @@
 <div style="display: inline_block" align="center"><br>
     <img align="center" alt="Aires-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 
-    <img align="center" alt="Aires-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg">
   <img align="center" alt="Aires-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Aires-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Aires-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
@@ -80,6 +82,9 @@
   <img align="center" alt="Aires-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Aires-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Aires-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+      <img align="center" alt="Aires-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg">
+
 </div>
       
   </br>
