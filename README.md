@@ -8,7 +8,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gabriel-aires-a4a95b200/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn"></a>
-  <a href="mailto:gabrielafonsofreitas@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email"></a>
+  <a href="https://gabriel.airex.com.br" target="_blank"><img src="https://img.shields.io/badge/Website-1ABC9C?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010" alt="Website"></a>
 </p>
 
 ---
